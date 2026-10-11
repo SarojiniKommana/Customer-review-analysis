@@ -23,7 +23,7 @@ Text reviews can often be more informative than ratings, but not as easy to quan
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/KommanaPavani/Customer-review-analysis.git
+git clone https://github.com/SarojiniKommana/Customer-review-analysis.git
 cd Customer-review-analysis
 ````
 
